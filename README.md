@@ -7,13 +7,13 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/CDogs-SDL-AppImage)](https://github.com/pkgforge-dev/CDogs-SDL-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/cxong/cdogs-sdl/blob/master/build/linux/cdogs-icon.128.png" width="128" />
+  <img src="https://github.com/cxong/cdogs-sdl/blob/master/build/linux/cdogs-icon.48.png" width="128" />
 </p>
 
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/CDogs-SDL-AppImage/releases/latest) | [Click here](https://github.com/pkgforge-dev/Anylinux-AppImages) |
+| [Click here](https://github.com/pkgforge-dev/CDogs-SDL-AppImage/releases/latest) | [Click here](https://github.com/cxong/cdogs-sdl) |
 
 </div>
 
