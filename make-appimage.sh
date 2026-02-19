@@ -3,17 +3,13 @@
 set -eu
 
 ARCH=$(uname -m)
-if [ "${DEVEL_RELEASE-}" = 1 ]; then
-  VERSION=$(pacman -Q cdogs-git | awk '{print $2; exit}') # example command to get version of application here
-else
-  VERSION=$(pacman -Q cdogs | awk '{print $2; exit}')
-fi
-export ARCH VERSION
+export ARCH
 export OUTPATH=./dist
 export ADD_HOOKS="self-updater.bg.hook"
 export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}|latest|*$ARCH.AppImage.zsync"
 export ICON=/usr/share/icons/hicolor/256x256/apps/io.github.cxong.cdogs-sdl.png
 export DESKTOP=/usr/share/applications/io.github.cxong.cdogs-sdl.desktop
+export STARTUPWMCLASS=cdogs-sdl
 export DEPLOY_OPENGL=1
 
 # Deploy dependencies
