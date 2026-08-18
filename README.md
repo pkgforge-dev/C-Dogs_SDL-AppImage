@@ -3,23 +3,23 @@
 # C-Dogs_SDL-AppImage 🐧
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/CDogs-SDL-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/CDogs-SDL-AppImage/releases/latest)
-[![CI Build Status](https://github.com//pkgforge-dev/CDogs-SDL-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/CDogs-SDL-AppImage/releases/latest)
+[![CI Build Status](https://github.com/pkgforge-dev/CDogs-SDL-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/CDogs-SDL-AppImage/releases/latest)
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/CDogs-SDL-AppImage)](https://github.com/pkgforge-dev/CDogs-SDL-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/cxong/cdogs-sdl/blob/master/build/linux/cdogs-icon.48.png" width="128" />
+  <img src="https://raw.githubusercontent.com/cxong/cdogs-sdl/refs/heads/master/build/linux/cdogs-icon.256.png" width="128" />
 </p>
 
 
-| Latest Stable Release | Upstream URL |
-| :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/CDogs-SDL-AppImage/releases/latest) | [Click here](https://github.com/cxong/cdogs-sdl) |
+| Latest Stable Release | Latest Nightly Release | Upstream URL |
+| :---: | :---: | :---: |
+| [Click here](https://github.com/pkgforge-dev/CDogs-SDL-AppImage/releases/latest) | [Click here](https://github.com/pkgforge-dev/C-Dogs_SDL-AppImage/releases/tag/nightly) | [Click here](https://github.com/cxong/cdogs-sdl) |
 
 </div>
 
 ---
 
-AppImage made using [sharun](https://github.com/VHSgunzo/sharun) and its wrapper [quick-sharun](https://github.com/pkgforge-dev/Anylinux-AppImages/blob/main/useful-tools/quick-sharun.sh), which makes it extremely easy to turn any binary into a portable package reliably without using containers or similar tricks. 
+AppImage made using [quick-sharun](https://github.com/pkgforge-dev/Anylinux-AppImages/blob/main/useful-tools/quick-sharun.sh), which makes it extremely easy to turn any binary into a portable package reliably without using containers or similar tricks. 
 
 **This AppImage bundles everything and it should work on any Linux distro, including old and musl-based ones.**
 
