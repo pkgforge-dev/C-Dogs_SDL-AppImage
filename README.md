@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/CDogs-SDL-AppImage)](https://github.com/pkgforge-dev/CDogs-SDL-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/cxong/cdogs-sdl/blob/master/build/linux/cdogs-icon.48.png" width="128" />
+  <img src="https://raw.githubusercontent.com/cxong/cdogs-sdl/refs/heads/master/build/linux/cdogs-icon.256.png" width="128" />
 </p>
 
 
