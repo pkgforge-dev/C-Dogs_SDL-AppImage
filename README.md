@@ -11,9 +11,9 @@
 </p>
 
 
-| Latest Stable Release | Upstream URL |
-| :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/CDogs-SDL-AppImage/releases/latest) | [Click here](https://github.com/cxong/cdogs-sdl) |
+| Latest Stable Release | Latest Nightly Release | Upstream URL |
+| :---: | :---: | :---: |
+| [Click here](https://github.com/pkgforge-dev/CDogs-SDL-AppImage/releases/latest) | [Click here](https://github.com/pkgforge-dev/C-Dogs_SDL-AppImage/releases/tag/nightly) | [Click here](https://github.com/cxong/cdogs-sdl) |
 
 </div>
 
