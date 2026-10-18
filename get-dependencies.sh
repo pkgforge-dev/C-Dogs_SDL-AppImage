@@ -6,7 +6,7 @@ ARCH=$(uname -m)
 
 echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
-pacman -Syu --noconfirm cmake gtk3
+pacman -Syu --noconfirm cmake gtk3 sdl2-compat
 
 echo "Installing debloated packages..."
 echo "---------------------------------------------------------------"
